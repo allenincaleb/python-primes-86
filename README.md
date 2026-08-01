@@ -1,2 +1,4 @@
-# python-primes-86
+# Python Primes 86
+
 Find and list all prime numbers up to N in Python.
+
